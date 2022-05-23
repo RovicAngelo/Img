@@ -1,1 +1,1 @@
-# Images for the Inventory Management System Documentation
+### Images for the Inventory Management System Documentation
